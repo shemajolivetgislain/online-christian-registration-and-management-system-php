@@ -1,0 +1,1 @@
+<?php include('chat header.php'); ?>
